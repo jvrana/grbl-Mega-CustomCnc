@@ -4,6 +4,11 @@ This is a fork of Grbl project for a personal custom CNC build. `grbl` I believe
 however I have some old AVR boards I would like to use for a CNC build. Likely, the build itself will be updated
 to use [grblHal](https://svn.io-engineering.com:8443/).
 
+
+The build is entirely custom, composed of 3D printed parts, 2020 and 2040v aluminum extrusions with a 500mmx500mmx300mm build area.
+XYZ axis head will be swappable (spingle, laser cutter, Dewalt Router (maybe...), etc.). I intend to upload the design files, stl/3mf 
+files etc as the project matures.
+
 ---
 
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
