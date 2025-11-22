@@ -1,4 +1,13 @@
+# GrblMega fork
+
+This is a fork of Grbl project for a personal custom CNC build. `grbl` I believe has been stagnant for a number of years,
+however I have some old AVR boards I would like to use for a CNC build. Likely, the build itself will be updated
+to use [grblHal](https://svn.io-engineering.com:8443/).
+
+---
+
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
+
 ***
 _Click the `Release` tab to download pre-compiled `.hex` files or just [click here](https://github.com/gnea/grbl-Mega/releases)_
 ***
