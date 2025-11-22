@@ -7,7 +7,7 @@ to use [grblHal](https://svn.io-engineering.com:8443/).
 
 The build is entirely custom, composed of 3D printed parts, 2020 and 2040v aluminum extrusions with a 500mmx500mmx300mm build area.
 XYZ axis head will be swappable (spingle, laser cutter, Dewalt Router (maybe...), etc.). I intend to upload the design files, stl/3mf 
-files etc as the project matures.
+files etc as the project matures. I understand this has been done a million times over [(see openbuilds if you want actual build plans)](https://builds.openbuilds.com/), but *I* want to do it myself and have full 
 
 ---
 
