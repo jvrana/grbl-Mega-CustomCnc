@@ -152,9 +152,11 @@
   #define STEP_PORT_0 F
   #define STEP_PORT_1 F
   #define STEP_PORT_2 L
+  #define STEP_PORT_3 C
   #define STEP_BIT_0 0  // X Step - Pin A0
   #define STEP_BIT_1 6  // Y Step - Pin A6
   #define STEP_BIT_2 3  // Z Step - Pin D46
+  #define STEP_BIT_3 7
   #define _STEP_BIT(i) STEP_BIT_##i
   #define STEP_BIT(i) _STEP_BIT(i)
   #define STEP_DDR(i) _DDR(STEP_PORT_##i)
@@ -166,9 +168,11 @@
   #define DIRECTION_PORT_0 F
   #define DIRECTION_PORT_1 F
   #define DIRECTION_PORT_2 L
+  #define DIRECTION_PORT_3 F
   #define DIRECTION_BIT_0 1 // X Dir - Pin A1
   #define DIRECTION_BIT_1 7 // Y Dir - Pin A7
   #define DIRECTION_BIT_2 1 // Z Dir - Pin D48
+  #define DIRECTION_BIT_3 4 // <--- NEW: E1 Dir Bit 4 (Pin A4)
   #define _DIRECTION_BIT(i) DIRECTION_BIT_##i
   #define DIRECTION_BIT(i) _DIRECTION_BIT(i)
   #define DIRECTION_DDR(i) _DDR(DIRECTION_PORT_##i)

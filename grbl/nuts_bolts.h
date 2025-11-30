@@ -30,8 +30,8 @@
 // Axis array index values. Must start with 0 and be continuous.
 #define N_AXIS 3 // Number of axes
 #define X_AXIS 0 // Axis indexing value.
-#define Y_AXIS 1
-#define Z_AXIS 2
+#define Y_AXIS 2
+#define Z_AXIS 1
 // #define A_AXIS 3
 
 // CoreXY motor assignments. DO NOT ALTER.
